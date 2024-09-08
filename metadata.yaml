@@ -1,5 +1,5 @@
 homepage: "https://www.markus-baersch.de"
 documentation: "https://github.com/mbaersch/utag-cookie-parser#readme"
 versions:
-  - sha: 4c97681f46a8556c9a7439e3820db30578ac3ddf
+  - sha: 3a604997fda75a93616ce363d30569ac7877fcfe
     changeNotes: initial release.
