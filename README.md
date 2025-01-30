@@ -4,7 +4,7 @@
 
 Gets the (Tealium) `utag_main` cookie value from incoming requests and returns single values from session info, all session info or all data with raw key names.
 
-![Template Status](https://img.shields.io/badge/Community%20Template%20Gallery%20Status-submitted-orange) ![Repo Size](https://img.shields.io/github/repo-size/mbaersch/utag-cookie-parser-server) ![License](https://img.shields.io/github/license/mbaersch/utag-cookie-parser-server)
+[![Template Status](https://img.shields.io/badge/Community%20Template%20Gallery%20Status-published-green)](https://tagmanager.google.com/gallery/#/owners/mbaersch/templates/utag-cookie-parser-server) ![Repo Size](https://img.shields.io/github/repo-size/mbaersch/utag-cookie-parser-server) ![License](https://img.shields.io/github/license/mbaersch/utag-cookie-parser-server)
 
 ## Usage 
 Add this template to your container and create a new variable with it.
